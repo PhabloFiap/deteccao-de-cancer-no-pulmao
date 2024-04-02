@@ -3,4 +3,5 @@ IA para fazer a detecção de câncer no pulmão utilizando imagens
 
 Dataset de imagens:https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data
 
+Acurácia de 68,4%
 
